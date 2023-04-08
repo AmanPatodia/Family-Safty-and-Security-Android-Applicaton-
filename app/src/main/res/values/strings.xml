@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyFamilySafty</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="guard">Guard</string>
+    <string name="profile">Profile</string>
+    <string name="open_when_you_are_potantially_dangarous_journey">Open when you are potantially dangarous journey</string>
+    <string name="security">Security</string>
+    <string name="sos">SOS</string>
+    <string name="in_case_of_emergency_keep_telling_family_members_to_contact_me">In case of emergency , Keep telling family members to contact me</string>
+    <string name="my_family">My Family</string>
+    <string name="yaroslav_zubko">Yaroslav Zubko</string>
+    <string name="maria_jose_botin">Maria Jose Botin</string>
+    <string name="ashish_asharaful">Ashish Asharaful</string>
+    <string name="shuisong_building_tairan_9th_road_futian_shenzhen">Shuisong Building,Tairan 9th Road, Futian, Shenzhen</string>
+    <string name="calculate">Calculate</string>
+    <string name="welcome_to_small_calculator">Welcome to Small Calculator</string>
+    <string name="Adition">Adition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="enter_first_a_number">Enter first a number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="click_to_open_home_page">Click to open home page</string>
+    <string name="click_to_open_guard_screen">click to open guard screen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dash_board">Dash Board</string>
+</resources>
