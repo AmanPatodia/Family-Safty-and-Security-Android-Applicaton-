@@ -20,7 +20,7 @@
         app:itemIconTint="@drawable/nav_icon_colours"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:itemTextColor="@color/guard_green_Color"
+        app:itemTextColor="@color/green"
         app:layout_constraintBottom_toBottomOf="parent"
         app:menu="@menu/bottom_bar_items" />
 
